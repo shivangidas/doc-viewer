@@ -17,8 +17,8 @@ A web application that allows users to upload PDF or DOC files (through file upl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/document-viewer.git
-   cd document-viewer
+   git clone https://github.com/shivangidas/doc-viewer.git
+   cd doc-viewer
    ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ A web application that allows users to upload PDF or DOC files (through file upl
 ## Project Structure
 
 ```
-document-viewer/
+doc-viewer/
 ├── src/
 │   ├── App.tsx           # Main application component
 │   ├── App.css           # Styles for the application
